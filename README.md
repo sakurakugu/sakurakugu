@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true&custom_title=My%20GitHub%20Stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact)
 

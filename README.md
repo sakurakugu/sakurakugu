@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Welcome ♪(^∇^*)</h1>
 
-# Github 星星  |  GitHub Stats
+## Github 星星  |  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true&custom_title=My%20GitHub%20Stats)
 
-# 最常用语言  |  Languages
+## 最常用语言  |  Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact)
 
-# 总访问  |  Total Visits
+## 总访问  |  Total Visits
 
 ![](https://count.getloli.com/get/@:sakurakugu)

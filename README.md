@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact)
+
+![](https://count.getloli.com/get/@:sakurakugu)

@@ -14,13 +14,22 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Welcome ♪(^∇^*)</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello, 你们好呀!" alt="Typing SVG" /></p>
 
-
-![](https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true&custom_title=My%20GitHub%20Stats)
 
 ## 最常用语言  |  Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact)
+
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sakurakugu&show_icons=true&custom_title=My%20GitHub%20Stats&hide_border=true" align="center"/>
+    </th>
+    <th>
+      <img alt="顶部 Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact&langs_count=10&hide=C&hide_border=true" align="center" /> 
+    </th>
+  </tr>
+</table>
 
 ## 总访问  |  Total Visits
 

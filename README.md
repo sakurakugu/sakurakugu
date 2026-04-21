@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 最常用语言  |  Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact&langs_count=10&hide=C)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakugu&layout=compact&langs_count=10&hide=c,assembly)
 
 ## 总访问  |  Total Visits
 

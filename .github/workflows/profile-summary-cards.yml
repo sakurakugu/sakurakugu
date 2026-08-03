@@ -14,13 +14,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: output
 
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
+          BRANCH_NAME: output
           UTC_OFFSET: 8
           EXCLUDE: "c,assembly"
           AUTO_PUSH: true

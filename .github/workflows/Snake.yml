@@ -33,11 +33,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
-      # 推送生成的 SVG 动画到 output 分支
-      - name: 推送 贪吃蛇动画 到 output 分支
+      # 推送生成的 SVG 动画到 snake-output 分支
+      - name: 推送 贪吃蛇动画 到 snake-output 分支
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: snake-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

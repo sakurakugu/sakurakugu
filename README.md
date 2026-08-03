@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome ♪(^∇^*)</h1>
 
 <div align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/profile-summary-card-output/github/0-profile-details.svg" />
 </div>
 
 ## 最常用语言  |  Languages
 
 <div align="center">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="400" />
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/profile-summary-card-output/github/1-repos-per-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/profile-summary-card-output/github/2-most-commit-language.svg" width="400" />
   <br />
-  <img src="./profile-summary-card-output/github/3-stats.svg" width="400" />
-  <img src="./profile-summary-card-output/github/4-productive-time.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/profile-summary-card-output/github/3-stats.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/profile-summary-card-output/github/4-productive-time.svg" width="400" />
 </div>
 
 ## 总访问  |  Total Visits
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <div align="center">
    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/github-contribution-grid-snake-dark.svg">
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/github-contribution-grid-snake.svg">
-     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/output/github-contribution-grid-snake.svg">
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakurakugu/sakurakugu/snake-output/github-contribution-grid-snake-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakurakugu/sakurakugu/snake-output/github-contribution-grid-snake.svg">
+     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/snake-output/github-contribution-grid-snake.svg">
    </picture>
 </div>

@@ -1,0 +1,27 @@
+name: Generate profile summary cards
+
+on:
+  schedule:
+    # Daily at 02:37 UTC+8. The non-round minute reduces scheduled-job delays.
+    - cron: "37 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          EXCLUDE: "c,assembly"
+          AUTO_PUSH: true
+          THEME: github

@@ -42,3 +42,7 @@ Here are some ideas to get you started:
      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakurakugu/sakurakugu/snake-output/github-contribution-grid-snake.svg">
    </picture>
 </div>
+
+## 赞助
+
+[爱发电](https://afdian.com/a/sakurakugu)

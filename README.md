@@ -43,6 +43,6 @@ Here are some ideas to get you started:
    </picture>
 </div>
 
-## 赞助
+## 赞助  | Sponsor
 
-[爱发电](https://afdian.com/a/sakurakugu)
+[爱发电](https://afdian.com/a/sakurakugu) [buy me a coffee](https://buymeacoffee.com/sakurakugu)
